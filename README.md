@@ -4,7 +4,7 @@
 
 Remove automatic tags or all tags from one selected Zotero collection or subcollection, or from selected items, with an option to restore the last cleanup.
 
-**Version:** 1.0.2 · **Author:** Wei Win Loy · **Licence:** [MIT](LICENSE)
+**Version:** 1.0.2 · **Author:** Wei Win Loy · **Licence:** [GPLV3](LICENSE)
 
 ## Compatibility
 
@@ -65,6 +65,6 @@ Run `python3 scripts/build.py` to build the XPI, source ZIP and repository ZIP i
 
 ## Licence
 
-MIT. Copyright © 2026 Wei Win Loy. Keep the copyright and licence notice when redistributing the source or XPI.
+GPLV3. Copyright © 2026 Wei Win Loy. Keep the copyright and licence notice when redistributing the source or XPI.
 
 ZotTagClear is an independent project.
