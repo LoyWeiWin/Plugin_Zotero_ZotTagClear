@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 1024 1024">
+  <title>ZotTagClear</title>
+  <rect x="40" y="40" width="944" height="944" rx="184" fill="#CC2936"/>
+  <path d="M240 268H496L784 576 560 832 240 552Z" fill="#FFFFFF"/>
+  <circle cx="376" cy="402" r="48" fill="#CC2936"/>
+  <path d="M656 206 824 374M824 206 656 374" fill="none" stroke="#333333" stroke-width="70" stroke-linecap="butt"/>
+</svg>

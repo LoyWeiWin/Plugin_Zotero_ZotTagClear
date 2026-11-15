@@ -1,0 +1,16 @@
+zottagclear-title =
+    .label = ZotTagClear
+zottagclear-selected-auto =
+    .label = Remove automatic tags from selected items…
+zottagclear-selected-all =
+    .label = Remove all tags from selected items…
+zottagclear-collection-auto =
+    .label = Remove automatic tags from selected collection…
+zottagclear-collection-all =
+    .label = Remove all tags from selected collection…
+zottagclear-restore =
+    .label = Restore last cleanup…
+zottagclear-prevent =
+    .label = Prevent automatic tags on future imports
+zottagclear-undo-clear = Clear Tags
+zottagclear-undo-restore = Restore Tags
